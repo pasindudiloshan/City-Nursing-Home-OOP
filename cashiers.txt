@@ -1,0 +1,20 @@
+Employee ID: EM001
+Username: Eran
+E-mail: eranyegar@gmail.com
+Contact Number: 0762145789
+Password: 123
+Employee ID: EM002
+Username: Walter
+E-mail: haisenberg@gmail.com
+Contact Number: 075249889
+Password: 123
+Employee ID: EM003
+Username: Kasun
+E-mail: kasun98@gmail.com
+Contact Number: 078129889
+Password: 123
+Employee ID: EM004
+Username: Senuri
+E-mail: senurimihi33@gmail.com
+Contact Number: 0762096789
+Password: senuri27
