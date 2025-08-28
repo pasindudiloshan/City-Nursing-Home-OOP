@@ -1,0 +1,108 @@
+
+Patient ID: CHN001
+Name: Tharindu
+Age: 29
+NIC: 961303052v
+Contact Number: 0765896321
+Appointment Date: 04-09-2024
+Category: Maternity
+Specialist: Dr. John
+
+Patient ID: CHN002
+Name: Ruwan
+Age: 32
+NIC: 842902924
+Contact Number: 077454825
+Appointment Date: 19-11-2024
+Category: General
+Specialist: Dr. Brown
+
+Patient ID: CHN003
+Name: Anjali
+Age: 30
+NIC: 965678345v
+Contact Number: 0761234567
+Appointment Date: 15-10-2024
+Category: Maternity
+Specialist: Dr. Sarah
+
+Patient ID: CHN004
+Name: Praveen
+Age: 45
+NIC: 856321789v
+Contact Number: 0749876543
+Appointment Date: 10-11-2024
+Category: General
+Specialist: Dr. Smith
+
+Patient ID: CHN005
+Name: Trevis
+Age: 25
+NIC: 983300359v
+Contact Number: 0768945762
+Appointment Date: 02-10-2024
+Category: General
+Specialist: Dr. Smith
+
+Patient ID: CHN006
+Name: Sunil
+Age: 25
+NIC: 995682762v
+Contact Number: 074525698
+Appointment Date: 02-10-2024
+Category: General
+Specialist: Dr. Lee
+
+Patient ID: CHN007
+Name: Saduni
+Age: 26
+NIC: 982325785v
+Contact Number: 0740666500
+Appointment Date: 29-09-2024
+Category: Pediatric
+Specialist: Dr. Lee
+
+Patient ID: CHN008
+Name: Kavindu
+Age: 22
+NIC: 951234678v
+Contact Number: 0784321987
+Appointment Date: 05-10-2024
+Category: Maternity
+Specialist: Dr. Anjali
+
+Patient ID: CHN009
+Name: Amaya
+Age: 28
+NIC: 920456123v
+Contact Number: 0775432198
+Appointment Date: 20-10-2024
+Category: Pediatric
+Specialist: Dr. Rohan
+
+Patient ID: CHN010
+Name: Dilshan
+Age: 33
+NIC: 894321456v
+Contact Number: 0756789101
+Appointment Date: 11-11-2024
+Category: General
+Specialist: Dr. Kumar
+
+Patient ID: CHN011
+Name: Riya
+Age: 27
+NIC: 970123459v
+Contact Number: 0745678901
+Appointment Date: 30-10-2024
+Category: Maternity
+Specialist: Dr. Smith
+Patient ID: CHN012
+Name: Randipa
+Age: 25
+NIC: 992450118v
+Contact Number: 
+Appointment Date: 01-10-2024
+Category: Emergency
+Specialist: Dr. Smith
+
