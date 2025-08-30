@@ -1,0 +1,66 @@
+Consultant ID: DM001
+Name: Mr. Sumith
+E-mail: sumith76@gmail.com
+Contact Number: 076894527
+Specialization: Obstetrics
+Department: Maternity
+Consultant ID: DM002
+Name: Dr. Anjali
+E-mail: anjali.perera@gmail.com
+Contact Number: 076894527
+Specialization: Gynecology
+Department: Maternity
+Consultant ID: DM003
+Name: Dr. Ravi Silva
+E-mail: ravi.silva@yahoo.com
+Contact Number: 0771234567
+Specialization: General Practice
+Department: General
+Consultant ID: DM004
+Name: Dr. Nisha
+E-mail: nisha.fernando@hotmail.com
+Contact Number: 0784572527
+Specialization: Pediatric
+Department: Pediatric
+Consultant ID: DM005
+Name: Dr. Keshan Kumar
+E-mail: keshan.kumar@gmail.com
+Contact Number: 0754567890
+Specialization: Emergency Medicine
+Department: Emergency
+Consultant ID: DM006
+Name: Dr. Priya Jayasinghe
+E-mail: priya.jayasinghe@gmail.com
+Contact Number: 0745678901
+Specialization: Maternal-Fetal Medicine
+Department: Maternity
+Consultant ID: DM007
+Name: Dr. Rohan Perera
+E-mail: rohan.perera@gmail.com
+Contact Number: 0778765432
+Specialization: Pediatric Surgery
+Department: Pediatric
+Consultant ID: DM008
+Name: Dr. Manisha Fernando
+E-mail: manisha.fernando@hotmail.com
+Contact Number: 0798765432
+Specialization: General Surgery
+Department: General
+Consultant ID: DM009
+Name: Dr. Lakshmi Senanayake
+E-mail: lakshmi.senanayake@gmail.com
+Contact Number: 0765432189
+Specialization: Trauma Surgery
+Department: Emergency
+Consultant ID: DM010
+Name: Dr. Chamika de Silva
+E-mail: chamika.desilva@gmail.com
+Contact Number: 0776543210
+Specialization: Obstetrics
+Department: Maternity
+Consultant ID: DM011
+Name: Dr. Haritha Reddy
+E-mail: haritha.reddy@gmail.com
+Contact Number: 0781234567
+Specialization: Child Health
+Department: Pediatric
