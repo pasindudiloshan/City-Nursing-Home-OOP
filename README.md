@@ -3,6 +3,8 @@
 As technology rapidly advances, the demand for **automated systems** in healthcare is growing.  
 The **City Nursing Home Hospital Management System** was developed to streamline operations for both managers and cashiers by replacing manual processes with a computerized solution.  
 
+![image alt](https://github.com/pasindudiloshan/City-Nursing-Home-OOP/blob/15f8c84dd667a2a2fb0219a5612843c0d1bcb391/Citynursing_cover.png)
+
 ---
 ## 📌 Features
 
@@ -16,7 +18,11 @@ This system was designed and implemented using **Object-Oriented Programming (OO
 By applying encapsulation, inheritance, abstraction, and polymorphism, the system demonstrates efficient design and maintainability, making it a practical solution for hospital management needs. 
 
 ---
+## 📄 Project Report
 
+The full system report detailing the design, architecture, and implementation of the **City Nursing Home Hospital Management System** can be accessed here:
+
+👉 [View System Report](https://drive.google.com/file/d/1KewvapQw5bwluLRMb1dh3C3o8R8fg6XO/view?usp=sharing) 
 
 ---
 ## 🛠️ Technologies Used
